@@ -1,0 +1,24 @@
+{
+  "name": "chat-application-pocs",
+  "version": "1.0.0",
+  "description": "A repository to maintain codebases for all the chat based application built using different libraries and packages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashrahurikar23/chat-application-pocs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashrahurikar23/chat-application-pocs/issues"
+  },
+  "homepage": "https://github.com/yashrahurikar23/chat-application-pocs#readme",
+  "dependencies": {
+    "nodemon": "^2.0.19",
+    "ws": "^8.8.1"
+  }
+}
